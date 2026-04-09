@@ -27,4 +27,4 @@ This project demonstrates the use of Splunk SIEM for log analysis, security moni
 - Identified repeated failed login attempts indicating possible brute-force attacks
 - Detected spikes in authentication activity across hosts
 - Observed abnormal file modification behavior
-[View Full Report (PDF)](./Splunk_SIEM_Threat_Detection_Report.pdf)
+[View Full Report (PDF)](Splunk SIEM Security Monitoring & Threat Detection Lab.pdf)
